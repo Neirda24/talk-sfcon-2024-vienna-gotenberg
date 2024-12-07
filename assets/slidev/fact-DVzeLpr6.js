@@ -1,1 +1,0 @@
-import{o as s,b as t,e as o,f as a}from"../modules/vue-C_1R1hF5.js";import{u as c}from"./context-DKG4zgNH.js";const r={class:"slidev-layout fact"},_={class:"my-auto"},m={__name:"fact",setup(l){return c(),(e,n)=>(s(),t("div",r,[o("div",_,[a(e.$slots,"default")])]))}};export{m as _};
